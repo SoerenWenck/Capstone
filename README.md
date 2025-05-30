@@ -28,3 +28,7 @@ Patterns, Trends and Outliers
 9. Wie unterscheiden sich Ernährungsgewohnheiten zwischen einkommensstarken und einkommensschwachen Ländern – und welche gesundheitlichen Folgen sind sichtbar?
 10. Gibt es Cluster von Ländern mit ähnlichen Ernährungs- und Gesundheitsprofilen?
 11. Wie wirken sich kulturelle Essgewohnheiten (z. B. Fasten, vegetarische Küche) auf bestimmte Gesundheitsparameter aus?
+
+# Link collection
+
+https://www.who.int/data/gho/whs-annex \

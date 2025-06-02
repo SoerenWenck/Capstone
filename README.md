@@ -29,6 +29,14 @@ Patterns, Trends and Outliers
 10. Gibt es Cluster von Ländern mit ähnlichen Ernährungs- und Gesundheitsprofilen?
 11. Wie wirken sich kulturelle Essgewohnheiten (z. B. Fasten, vegetarische Küche) auf bestimmte Gesundheitsparameter aus?
 
+Traditionell gesund	Japan, Italien, Griechenland, Vietnam	hohe Lebenserwartung, mediterran/asiatisch
+Hochverarbeitet	USA, UK, Australien	viel Fast Food, hohe Adipositasrate
+Schwellenländer	Indien, Südafrika, Mexiko	starke Ernährungstransformation
+Vegetarisch/kulturell anders	Indien, Israel, Äthiopien	vegetarisch/pescetarisch, religiös geprägt
+Ärmere Länder	Nigeria, Bangladesh, Kambodscha	wenig verarbeitete Nahrung, geringe Gesundheitsversorgung
+
 # Link collection
 
 https://www.who.int/data/gho/whs-annex \
+
+

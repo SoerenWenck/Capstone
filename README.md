@@ -30,13 +30,24 @@ Patterns, Trends and Outliers
 11. Wie wirken sich kulturelle Essgewohnheiten (z. B. Fasten, vegetarische Küche) auf bestimmte Gesundheitsparameter aus?
 
 Traditionell gesund	Japan, Italien, Griechenland, Vietnam	hohe Lebenserwartung, mediterran/asiatisch
+
 Hochverarbeitet	USA, UK, Australien	viel Fast Food, hohe Adipositasrate
+
 Schwellenländer	Indien, Südafrika, Mexiko	starke Ernährungstransformation
+
 Vegetarisch/kulturell anders	Indien, Israel, Äthiopien	vegetarisch/pescetarisch, religiös geprägt
+
 Ärmere Länder	Nigeria, Bangladesh, Kambodscha	wenig verarbeitete Nahrung, geringe Gesundheitsversorgung
 
 # Link collection
 
 https://www.who.int/data/gho/whs-annex \
+
+
+# Projekt Struktuer (Vorschlag)
+
+Titel: “Global Diets, Health & Wealth – How What We Eat Affects How We Live”
+
+Business Questions: How do different national dietary patterns across income levels and cultures relate to health outcomes such as obesity, diabetes, cancer, and life expectancy?
 
 

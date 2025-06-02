@@ -2,8 +2,6 @@
 
 Ziel Projektes ist es einen Zusammenhang zwischen Ernährung und Gesundheit herzustellen. Hierfür werden verschieden Datenquellen aus verschiedenen Ländern verwendet.
 
-test 1 2 3
-\
 https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey
 
 
@@ -55,9 +53,11 @@ ___Titel___:
 
 “Global Diets, Health & Wealth – How What We Eat Affects How We Live”
 
+
 ___Business Question___ :
 
 How do different national dietary patterns across income levels and cultures relate to health outcomes such as obesity, diabetes, cancer, and life expectancy?
+
 
 ___Modul 1 – Ernährung vs. Krankheit___
 
@@ -65,7 +65,9 @@ Do higher intakes of sugar, meat, or processed food correlate with higher obesit
 
 ___Modul 2 - Tradition vs Modern___
 
+
 Do countries with traditional diets (e.g. Japan, Italy) have better health than highly industrialized food cultures?
+
 
 ___Modul 3 – Einkommen & Ernährung___
 

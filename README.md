@@ -60,3 +60,9 @@ How do different national dietary patterns across income levels and cultures rel
 ___Modul 1 – Ernährung vs. Krankheit___
 Do higher intakes of sugar, meat, or processed food correlate with higher obesity, diabetes, and cancer rates?
 
+___Modul 2 - Tradition vs Modern___
+Do countries with traditional diets (e.g. Japan, Italy) have better health than highly industrialized food cultures?
+
+___Modul 3 – Einkommen & Ernährung___
+Can low-income countries afford to eat healthy? Or are rich countries unhealthier than expected?
+

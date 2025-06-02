@@ -47,6 +47,8 @@ Vegetarisch/kulturell anders -Indien, Israel, Äthiopien	vegetarisch/pescetarisc
 https://www.who.int/data/gho/whs-annex \
 
 
+https://www.statista.com/statistics/249681/total-consumption-of-sugar-worldwide/
+
 # Projekt Struktur (Vorschlag)
 
 ___Titel___:

@@ -55,6 +55,22 @@ https://www.who.int/data/gho/whs-annex/
 
 https://www.statista.com/topics/12722/the-health-effects-of-ultra-processed-food/#topicOverview
 
+obesity:
+https://ourworldindata.org/obesity
+
+diabetes:
+https://ourworldindata.org/grapher/diabetes-prevalence
+
+cancer:
+https://ourworldindata.org/cancer
+
+meat:
+https://ourworldindata.org/meat-production
+
+sugar und fruit:
+https://ourworldindata.org/diet-compositions
+
+
 # Projekt Struktur (Vorschlag)
 
 ___Titel___:

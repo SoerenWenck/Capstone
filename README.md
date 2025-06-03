@@ -51,6 +51,8 @@ https://www.statista.com/statistics/249681/total-consumption-of-sugar-worldwide/
 
 https://www.statista.com/statistics/274522/global-per-capita-consumption-of-meat/
 
+https://www.who.int/data/gho/whs-annex/
+
 # Projekt Struktur (Vorschlag)
 
 ___Titel___:

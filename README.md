@@ -130,3 +130,34 @@ ___Conclusion & Recommendations___
 - What do the data suggest about diet and health?
 - Key findings and trends
 - Practical takeaways or health recommendations
+
+
+# Projektstruktur 3
+1. Einleitung
+Relevanz von Ernährung und Lebensstil für chronische Krankheiten
+
+
+Ziel des Projekts
+
+2. Modul 1: Zuckeraufnahme, Diätverhalten und Blutzucker
+Frage: Wie hängen Zuckerzufuhr, Frühstücksverhalten und Softdrinkkonsum mit HbA1c und BMI zusammen?
+
+Gruppenvergleiche und Regressionsmodelle
+
+3. Modul 2: Vitamin D, Supplemente und Schlaf
+Frage: Haben Supplementnutzer höhere Vitamin-D-Blutwerte? Gibt es Unterschiede je nach Schlafverhalten?
+
+Vitamin D vs. Schlafdauer, Supplement-Status
+
+
+4. Modul 3: Körperliche Aktivität und Entzündung
+Frage: Haben aktive Personen niedrigere Entzündungswerte (CRP)?
+
+Bewegung in METs oder Minuten pro Woche, CRP-Quintile
+
+5. Modul 4 (optional): Psychische Gesundheit und Blutwerte
+Frage: Haben Personen mit Depressionen schlechtere Blutwerte (Vitamin D, CRP, Blutbild)?
+
+Selbstberichtete Gesundheit vs. objektive Werte
+
+

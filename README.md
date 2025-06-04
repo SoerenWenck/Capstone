@@ -97,3 +97,36 @@ ___Modul 3 – Einkommen & Ernährung___
 
 Can low-income countries afford to eat healthy? Or are rich countries unhealthier than expected?
 
+
+
+
+# Projekt Struktur Vorschlag 2
+
+How does nutrition relate to key health biomarkers in the NHANES 20212023 dataset?
+
+___INTRO___
+- Why is nutrition and health an important topic?
+- Data source: Brief explanation of NHANES
+- Goal: Using NHANES data, we investigate how different aspects of nutrition are associated with health indicators like
+blood sugar, inflammation, and cardiovascular risk.
+
+
+___Module 1 Sugar Intake, Insulin Resistance & Body Weight___
+- Sugar intake: DR1TOT_G
+- Blood markers: HbA1c (HBA1C_G), Insulin (INS_G)
+- Body composition: BMI, waist circumference (BMX_G)
+
+___Module 2 Vitamin D: Intake vs. Blood Levels___
+- Dietary & supplemental Vitamin D: DR1TOT_G, DSQTOT_G
+- Blood levels: VID_G
+- Factors: BMI, race/ethnicity (BMX_G, DEMO_G)
+
+___Module 3 Fat Intake & Cardiovascular Health___
+- Fat types: total, saturated, unsaturated (DR1TOT_G)
+- Blood lipids: Total cholesterol, HDL, LDL, triglycerides (CHOL_G, TRIGLY_G)
+- Blood pressure: BPX_G
+
+___Conclusion & Recommendations___
+- What do the data suggest about diet and health?
+- Key findings and trends
+- Practical takeaways or health recommendations

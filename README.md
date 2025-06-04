@@ -133,31 +133,28 @@ ___Conclusion & Recommendations___
 
 
 # Projektstruktur 3
-1. Einleitung
-Relevanz von Ernährung und Lebensstil für chronische Krankheiten
+___1. Einleitung___
+-Relevanz von Ernährung und Lebensstil für chronische Krankheiten
 
 
 Ziel des Projekts
 
-2. Modul 1: Zuckeraufnahme, Diätverhalten und Blutzucker
-Frage: Wie hängen Zuckerzufuhr, Frühstücksverhalten und Softdrinkkonsum mit HbA1c und BMI zusammen?
+___2. Modul 1: Zuckeraufnahme, Diätverhalten und Blutzucker___
+-Frage: Wie hängen Zuckerzufuhr, Frühstücksverhalten und Softdrinkkonsum mit HbA1c und BMI zusammen?
+-Gruppenvergleiche und Regressionsmodelle
 
-Gruppenvergleiche und Regressionsmodelle
+___3. Modul 2: Vitamin D, Supplemente und Schlaf___
+-Frage: Haben Supplementnutzer höhere Vitamin-D-Blutwerte? Gibt es Unterschiede je nach Schlafverhalten?
 
-3. Modul 2: Vitamin D, Supplemente und Schlaf
-Frage: Haben Supplementnutzer höhere Vitamin-D-Blutwerte? Gibt es Unterschiede je nach Schlafverhalten?
-
-Vitamin D vs. Schlafdauer, Supplement-Status
+-Vitamin D vs. Schlafdauer, Supplement-Status
 
 
-4. Modul 3: Körperliche Aktivität und Entzündung
-Frage: Haben aktive Personen niedrigere Entzündungswerte (CRP)?
+___4. Modul 3: Körperliche Aktivität und Entzündung___
+-Frage: Haben aktive Personen niedrigere Entzündungswerte (CRP)?
+-Bewegung in METs oder Minuten pro Woche, CRP-Quintile
 
-Bewegung in METs oder Minuten pro Woche, CRP-Quintile
-
-5. Modul 4 (optional): Psychische Gesundheit und Blutwerte
-Frage: Haben Personen mit Depressionen schlechtere Blutwerte (Vitamin D, CRP, Blutbild)?
-
-Selbstberichtete Gesundheit vs. objektive Werte
+___5. Modul 4 (optional): Psychische Gesundheit und Blutwerte__
+-Frage: Haben Personen mit Depressionen schlechtere Blutwerte (Vitamin D, CRP, Blutbild)?
+-Selbstberichtete Gesundheit vs. objektive Werte
 
 

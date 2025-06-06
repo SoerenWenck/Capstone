@@ -1,5 +1,5 @@
 # Ignore data folder
-data/
+trash/
 
 # Ignore .env
 .env

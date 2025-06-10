@@ -2,8 +2,13 @@
  "cells": [
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 2,
+   "id": "2304d3da",
+=======
    "execution_count": 1,
    "id": "9d6b8488",
+>>>>>>> origin/main
    "metadata": {},
    "outputs": [],
    "source": [
@@ -14,6 +19,23 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 3,
+   "id": "05f5fdc0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Let's load values from the .env file\n",
+    "from dotenv import dotenv_values\n",
+    "config = dotenv_values()\n",
+    "# define variables for the login\n",
+    "pg_user = config['POSTGRES_USER']  # align the key label with your .env file !\n",
+    "pg_host = config['POSTGRES_HOST']\n",
+    "pg_port = config['POSTGRES_PORT']\n",
+    "pg_db = config['POSTGRES_DB']\n",
+    "pg_schema = config['POSTGRES_SCHEMA']\n",
+    "pg_pass = config['POSTGRES_PASS']"
+=======
    "execution_count": 2,
    "id": "2f259049",
    "metadata": {},
@@ -56,11 +78,19 @@
     "lab = pd.read_csv(\"../data/NHANES_2017-2018/laboratory2017.csv\")\n",
     "exam = pd.read_csv(\"../data/NHANES_2017-2018/examination2017.csv\")\n",
     "quest = pd.read_csv(\"../data/NHANES_2017-2018/questionnaire2017.csv\")"
+>>>>>>> origin/main
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 4,
+<<<<<<< HEAD
+   "id": "2ef54653",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "url = f'postgresql://{pg_user}:{pg_pass}@{pg_host}:{pg_port}/{pg_db}'"
+=======
    "id": "3411201f",
    "metadata": {},
    "outputs": [],
@@ -253,11 +283,15 @@
     "    'URDACT': 'albumine_creatinine_ratio'\n",
     "}\n",
     "\n"
+>>>>>>> origin/main
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
+<<<<<<< HEAD
+   "id": "de8496c5",
+=======
    "id": "b80af975",
    "metadata": {},
    "outputs": [],
@@ -467,6 +501,7 @@
    "cell_type": "code",
    "execution_count": 11,
    "id": "145783de",
+>>>>>>> origin/main
    "metadata": {},
    "outputs": [],
    "source": [
@@ -475,8 +510,13 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 6,
+   "id": "c9d4853c",
+=======
    "execution_count": 12,
    "id": "35435dce",
+>>>>>>> origin/main
    "metadata": {},
    "outputs": [
     {
@@ -485,7 +525,11 @@
        "postgresql://harunkatran:***@data-analytics-course-2.c8g8r1deus2v.eu-central-1.rds.amazonaws.com:5432/nf260325"
       ]
      },
+<<<<<<< HEAD
+     "execution_count": 6,
+=======
      "execution_count": 12,
+>>>>>>> origin/main
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -496,8 +540,13 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 9,
+   "id": "8e1655f3",
+=======
    "execution_count": 13,
    "id": "0f8004d2",
+>>>>>>> origin/main
    "metadata": {},
    "outputs": [],
    "source": [
@@ -507,27 +556,56 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 10,
+   "id": "ae3e8651",
+=======
    "execution_count": 14,
    "id": "ef54058f",
+>>>>>>> origin/main
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
+<<<<<<< HEAD
+       "344"
+      ]
+     },
+     "execution_count": 10,
+=======
        "194"
       ]
      },
      "execution_count": 14,
+>>>>>>> origin/main
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
+<<<<<<< HEAD
+    "data_2015 = pd.read_csv(\"../data/Database/data_2015.csv\")\n",
+    "data_2015.to_sql('data_2015', engine, if_exists='replace',index=True)"
+=======
     "data_merged.to_sql('data_2017', engine, if_exists='replace',index=False)"
+>>>>>>> origin/main
    ]
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": null,
+   "id": "b16c8091",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# demo_2013 = pd.read_csv(\"../data/Database/NHANES2013-2014/demographics2013.csv\")\n",
+    "# diet_2013 = pd.read_csv(\"../data/Database/NHANES2013-2014/dietary2013.csv\")\n",
+    "# lab_2013 = pd.read_csv(\"../data/Database/NHANES2013-2014/laboratory2013.csv\")\n",
+    "# exam_2013 = pd.read_csv(\"../data/Database/NHANES2013-2014/examination2013.csv\")\n",
+    "# quest_2013 = pd.read_csv(\"../data/Database/NHANES2013-2014/questionnaire2013.csv\")"
+=======
    "execution_count": 15,
    "id": "98828105",
    "metadata": {},
@@ -544,10 +622,23 @@
     "# lab_2015.to_sql('lab_2015', engine, if_exists='replace',index=True)\n",
     "# exam_2015.to_sql('exam_2015', engine, if_exists='replace',index=True)\n",
     "# quest_2015.to_sql('quest_2015', engine, if_exists='replace',index=True)"
+>>>>>>> origin/main
    ]
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": null,
+   "id": "c3dd02cc",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# demo_2013.to_sql('demo_2013', engine, if_exists='replace',index=True)\n",
+    "# diet_2013.to_sql('diet_2013', engine, if_exists='replace',index=True)\n",
+    "# lab_2013.to_sql('lab_2013', engine, if_exists='replace',index=True)\n",
+    "# exam_2013.to_sql('exam_2013', engine, if_exists='replace',index=True)\n",
+    "# quest_2013.to_sql('quest_2013', engine, if_exists='replace',index=True)"
+=======
    "execution_count": 16,
    "id": "d77bcbac",
    "metadata": {},
@@ -971,6 +1062,7 @@
    ],
    "source": [
     "data_merged"
+>>>>>>> origin/main
    ]
   }
  ],

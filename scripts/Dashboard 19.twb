@@ -1,0 +1,847 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20251.25.0415.1018                               -->
+<workbook original-version='18.1' source-build='2025.1.1 (20251.25.0415.1018)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 19'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98088' id='14' param='vert' type-v2='layout-flow' w='99064' x='468' y='956'>
+            <zone h='98088' id='12' type-v2='layout-basic' w='99064' x='468' y='956'>
+              <zone h='78255' id='29' is-fixed='true' type-v2='layout-basic' w='22001' x='37683' y='20789'>
+                <zone h='78255' id='40' is-fixed='true' type-v2='layout-basic' w='22001' x='37683' y='20789'>
+                  <zone h='36559' id='46' is-fixed='true' type-v2='layout-basic' w='22001' x='37683' y='20789'>
+                    <zone h='6810' id='3' param='vert' type-v2='layout-flow' w='22001' x='37683' y='20789'>
+                      <zone fixed-size='52' forceUpdate='true' h='6810' id='21' is-fixed='true' type-v2='text' w='22001' x='37683' y='20789'>
+                        <formatted-text>
+                          <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>3. </run>
+                          <run fontalignment='1'>Æ&#10;</run>
+                          <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Cleaning </run>
+                        </formatted-text>
+                        <zone-style>
+                          <format attr='border-color' value='#000000' />
+                          <format attr='border-style' value='none' />
+                          <format attr='border-width' value='0' />
+                          <format attr='margin' value='4' />
+                        </zone-style>
+                      </zone>
+                    </zone>
+                    <zone h='29749' id='47' param='vert' type-v2='layout-flow' w='22001' x='37683' y='27599'>
+                      <zone fixed-size='92' h='11948' id='22' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/python.png' type-v2='bitmap' w='22001' x='37683' y='27599'>
+                        <zone-style>
+                          <format attr='border-color' value='#000000' />
+                          <format attr='border-style' value='none' />
+                          <format attr='border-width' value='0' />
+                          <format attr='margin' value='4' />
+                        </zone-style>
+                      </zone>
+                      <zone fixed-size='92' h='11948' id='23' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Pandas.png' type-v2='bitmap' w='22001' x='37683' y='39547'>
+                        <zone-style>
+                          <format attr='border-color' value='#000000' />
+                          <format attr='border-style' value='none' />
+                          <format attr='border-width' value='0' />
+                          <format attr='margin' value='4' />
+                        </zone-style>
+                      </zone>
+                    </zone>
+                  </zone>
+                  <zone h='41696' id='41' param='vert' type-v2='layout-flow' w='22001' x='37683' y='57348'>
+                    <zone fixed-size='358' h='41696' id='35' is-fixed='true' type-v2='text' w='22001' x='37683' y='57348'>
+                      <formatted-text>
+                        <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                        <run>Æ&#10;</run>
+                        <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalalla</run>
+                        <run>Æ&#10;</run>
+                        <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                      </formatted-text>
+                      <zone-style>
+                        <format attr='border-color' value='#000000' />
+                        <format attr='border-style' value='none' />
+                        <format attr='border-width' value='0' />
+                        <format attr='margin' value='4' />
+                      </zone-style>
+                    </zone>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='78255' id='42' is-fixed='true' type-v2='layout-basic' w='18958' x='59684' y='20789'>
+                <zone h='36559' id='5' param='vert' type-v2='layout-flow' w='18958' x='59684' y='20789'>
+                  <zone fixed-size='52' forceUpdate='true' h='7169' id='24' is-fixed='true' type-v2='text' w='18958' x='59684' y='20789'>
+                    <formatted-text>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>4. </run>
+                      <run fontalignment='1'>Æ&#10;</run>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Transformation</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' h='11948' id='25' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/postgresql.png' type-v2='bitmap' w='18958' x='59684' y='27958'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' h='11948' id='26' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/dbeaver.png' type-v2='bitmap' w='18958' x='59684' y='39906'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+                <zone h='41696' id='43' param='vert' type-v2='layout-flow' w='18958' x='59684' y='57348'>
+                  <zone fixed-size='358' h='41696' id='31' is-fixed='true' type-v2='text' w='18958' x='59684' y='57348'>
+                    <formatted-text>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallalal</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='78255' id='44' is-fixed='true' type-v2='layout-basic' w='20890' x='78642' y='20789'>
+                <zone h='36559' id='6' param='vert' type-v2='layout-flow' w='20890' x='78642' y='20789'>
+                  <zone fixed-size='52' h='7169' id='32' is-fixed='true' type-v2='text' w='20890' x='78642' y='20789'>
+                    <formatted-text>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>5. </run>
+                      <run fontalignment='1'>Æ&#10;</run>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Plotting</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' h='11948' id='33' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/tableau.png' type-v2='bitmap' w='20890' x='78642' y='27958'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+                <zone h='41696' id='45' param='vert' type-v2='layout-flow' w='20890' x='78642' y='57348'>
+                  <zone fixed-size='458' h='41696' id='34' is-fixed='true' type-v2='text' w='20890' x='78642' y='57348'>
+                    <formatted-text>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalal</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='78255' id='36' is-fixed='true' type-v2='layout-basic' w='18783' x='18900' y='20789'>
+                <zone h='36559' id='7' param='vert' type-v2='layout-flow' w='18783' x='18900' y='20789'>
+                  <zone fixed-size='52' forceUpdate='true' h='7169' id='19' is-fixed='true' type-v2='text' w='18783' x='18900' y='20789'>
+                    <formatted-text>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>2. </run>
+                      <run fontalignment='1'>Æ&#10;</run>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Structuring</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' h='11948' id='20' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Excel.png' type-v2='bitmap' w='18783' x='18900' y='27958'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+                <zone h='41696' id='37' param='vert' type-v2='layout-flow' w='18783' x='18900' y='57348'>
+                  <zone fixed-size='309' h='37874' id='28' is-fixed='true' type-v2='text' w='18783' x='18900' y='57348'>
+                    <formatted-text>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalalla</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='78255' id='38' is-fixed='true' type-v2='layout-basic' w='18432' x='468' y='20789'>
+                <zone h='36559' id='8' param='vert' type-v2='layout-flow' w='18432' x='468' y='20789'>
+                  <zone fixed-size='52' forceUpdate='true' h='7169' id='16' is-fixed='true' type-v2='text' w='18432' x='468' y='20789'>
+                    <formatted-text>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>1 . </run>
+                      <run fontalignment='1'>Æ&#10;</run>
+                      <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Search </run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' forceUpdate='true' h='11948' id='15' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Nhanes2.jpeg' type-v2='bitmap' w='18432' x='468' y='27958'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='92' h='11948' id='17' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/US_CDC_logo.svg.png' type-v2='bitmap' w='18432' x='468' y='39906'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+                <zone h='41696' id='39' param='vert' type-v2='layout-flow' w='18432' x='468' y='57348'>
+                  <zone fixed-size='309' h='37874' id='18' is-fixed='true' type-v2='text' w='18432' x='468' y='57348'>
+                    <formatted-text>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalla</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallala</run>
+                      <run>Æ&#10;</run>
+                      <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                      <run>Æ&#10;</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='19833' id='9' param='horz' type-v2='layout-flow' w='99064' x='468' y='956'>
+                <zone forceUpdate='true' h='19833' id='10' type-v2='text' w='99064' x='468' y='956'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='22' underline='true'>The Data Preperation Journey</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='49' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98088' id='48' param='vert' type-v2='layout-flow' w='99064' x='468' y='956'>
+                <zone forceUpdate='true' h='19833' id='10' type-v2='text' w='99064' x='468' y='956'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='22' underline='true'>The Data Preperation Journey</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='52' forceUpdate='true' h='7169' id='16' type-v2='text' w='18432' x='468' y='20789'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>1 . </run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Search </run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='52' forceUpdate='true' h='7169' id='19' type-v2='text' w='18783' x='18900' y='20789'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>2. </run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Structuring</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='52' forceUpdate='true' h='6810' id='21' type-v2='text' w='22001' x='37683' y='20789'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>3. </run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Cleaning </run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='52' forceUpdate='true' h='7169' id='24' type-v2='text' w='18958' x='59684' y='20789'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>4. </run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Transformation</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='52' h='7169' id='32' type-v2='text' w='20890' x='78642' y='20789'>
+                  <formatted-text>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='16'>5. </run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Data Plotting</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='87' h='11948' id='22' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/python.png' type-v2='bitmap' w='22001' x='37683' y='27599'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='87' forceUpdate='true' h='11948' id='15' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Nhanes2.jpeg' type-v2='bitmap' w='18432' x='468' y='27958'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='87' h='11948' id='20' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Excel.png' type-v2='bitmap' w='18783' x='18900' y='27958'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='87' h='11948' id='25' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/postgresql.png' type-v2='bitmap' w='18958' x='59684' y='27958'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='87' h='11948' id='33' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/tableau.png' type-v2='bitmap' w='20890' x='78642' y='27958'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='88' h='11948' id='23' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/Pandas.png' type-v2='bitmap' w='22001' x='37683' y='39547'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='88' h='11948' id='17' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/US_CDC_logo.svg.png' type-v2='bitmap' w='18432' x='468' y='39906'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='88' h='11948' id='26' is-fixed='true' is-scaled='1' param='C:/Users/kdura/OneDrive/Desktop/Data journey Icons/dbeaver.png' type-v2='bitmap' w='18958' x='59684' y='39906'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='309' h='37874' id='18' type-v2='text' w='18432' x='468' y='57348'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalla</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                    <run>Æ&#10;</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='309' h='37874' id='28' type-v2='text' w='18783' x='18900' y='57348'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalalla</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='358' h='41696' id='35' type-v2='text' w='22001' x='37683' y='57348'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalalalla</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='358' h='41696' id='31' type-v2='text' w='18958' x='59684' y='57348'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallalal</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='458' h='41696' id='34' type-v2='text' w='20890' x='78642' y='57348'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalalallala</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='11'>- lalalallalal</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{03B52926-1C03-4D6F-ABB0-3610F1201E63}' />
+    </dashboard>
+  </dashboards>
+  <windows film-mode='true' source-height='51'>
+    <window class='dashboard' maximized='true' name='Dashboard 19'>
+      <viewpoints />
+      <active id='18' />
+      <simple-id uuid='{18A556CE-35B2-45B2-B802-91AD7C2D8A8B}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Dashboard 19' width='192'>
+      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
+      +//K4s8B2dbIWAAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Story 1' width='192'>
+      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
+      gSGdzQAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
